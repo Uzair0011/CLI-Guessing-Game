@@ -1,0 +1,19 @@
+{
+  "name": "cli-guessing-game-uzahgg",
+  "version": "1.0.0",
+  "description": "CLI Guessing Game with The help of Typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzair Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
